@@ -6,6 +6,8 @@
 
 Here is have included both codes for **python** as well as **java script**.
 
+<img src="./Double-Pendulum--JS/Capture.png"/>
+
 Just try to play around with physics to gain multiple variances of double pendulum actions... 
 
 _In physics and mathematics, in the area of dynamical systems, a double pendulum is a pendulum with another pendulum attached to its end, and is a simple physical system that exhibits rich dynamic behavior with a strong sensitivity to initial conditions.[1] The motion of a double pendulum is governed by a set of coupled ordinary differential equations and is chaotic._
