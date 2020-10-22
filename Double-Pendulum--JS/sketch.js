@@ -15,7 +15,7 @@ let cx, cy;
 let buffer;
 
 function setup() {
-  createCanvas(900, 600);
+  createCanvas(1800, 1800);
 	pixelDensity(1);
   a1 = PI / 2;
   a2 = PI / 2;
