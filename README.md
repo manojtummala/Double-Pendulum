@@ -6,7 +6,8 @@
 
 Here is have included both codes for **python** as well as **java script**.
 
-<img src="./Double-Pendulum--JS/Capture.png"/>
+<p align="center">
+<img src="./Double-Pendulum--JS/Capture.PNG" width="450"/></p><br />
 
 Just try to play around with physics to gain multiple variances of double pendulum actions... 
 
